@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# 👩‍⚖️ JurisAI 👩‍⚖️
+An AI-powered app designed to streamline lawyer-client interactions. JurisAI aids in gathering comprehensive client information through an interactive chatbot. Explore the app [here](http://aws-amplify-dummy-link.com).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📌 Table of Contents
+- [📖 Project Description](#project-description)
+- [🔧 Installation](#installation)
+- [🚀 Usage](#usage)
+- [✨ Features](#features)
+- [👥 Credits](#credits)
+- [📜 License](#license)
+- [🤝 Contribution](#contribution)
 
-## Available Scripts
+## 📖 Project Description <a name="project-description"></a>
+JurisAI is transforming the legal consultation process. Before a lawyer even meets their client, they can have a detailed understanding of the client's legal concerns. Through a chatbot conversation, clients provide in-depth information about their case, which is then analyzed and can be relayed to the lawyer. This ensures that even before the actual consultation, lawyers have a foundational understanding of the client's needs.
 
-In the project directory, you can run:
+### 🛠 Technologies Used:
+- ReactJS
+- OpenAI API
 
-### `npm start`
+### 🚧 Challenges Faced:
+- Navigating the intricacies of the OpenAI API, especially prompt engineering.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🔜 Future Improvements:
+- Integration of an LLM (Language Model) specifically tailored for the legal field to enhance accuracy and relevance.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔧 Installation <a name="installation"></a>
+- 📥 Ensure all prerequisites required by ReactJS are installed.
+- 🔑 Obtain a key for the OpenAI API.
+- 📦 Install OpenAI.
 
-### `npm test`
+## 🚀 Usage <a name="usage"></a>
+Post-installation, users can interact with the chatbot. After the chat, an analysis is provided, which can then be sent to the lawyer, giving them a preliminary understanding of the client's legal concerns.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Features <a name="features"></a>
+- 📋 Client-Chatbot Interaction:
+  - Gathering Information: The chatbot engages with the client to gather detailed information about their legal concerns.
+  - Analysis: Post-conversation, an in-depth analysis is generated.
+  - Relaying to Lawyers: The analysis can be sent to lawyers, ensuring they're informed even before the actual consultation.
 
-### `npm run build`
+## 👥 Credits <a name="credits"></a>
+🙋‍♂️ Developed solely by me.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📜 License <a name="license"></a>
+Adherence to the terms and regulations of the OpenAI API is a must.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🤝 Contribution <a name="contribution"></a>
+Interested in enhancing LawGPT? Fork the project and contribute! Just remember to credit me in your contributions.
