@@ -1,5 +1,11 @@
 # 👩‍⚖️ JurisAI 👩‍⚖️
-An AI-powered app designed to streamline lawyer-client interactions. JurisAI aids in gathering comprehensive client information through an interactive chatbot. Explore the app [here](http://aws-amplify-dummy-link.com).
+An AI-powered app designed to streamline lawyer-client interactions. JurisAI aids in gathering comprehensive client information through an interactive chatbot. Explore the app here https://main.d1lwzd1rscj1fr.amplifyapp.com
+
+<img width="1000" alt="Screen Shot 2023-09-28 at 4 21 53 PM" src="https://github.com/AceCanacan/jurisai-web-public/assets/110709199/701a0433-5524-4ea7-8128-3e9246cc75be">
+<img width="1000" alt="Screen Shot 2023-09-28 at 4 38 36 PM" src="https://github.com/AceCanacan/jurisai-web-public/assets/110709199/3169775e-01d1-4156-8c9f-af92b4111940">
+<img width="1000" alt="Screen Shot 2023-09-28 at 4 23 39 PM" src="https://github.com/AceCanacan/jurisai-web-public/assets/110709199/10828579-ea59-400d-8fe9-85fb5b35dbdf">
+<img width="1000" alt="Screen Shot 2023-09-28 at 4 24 08 PM" src="https://github.com/AceCanacan/jurisai-web-public/assets/110709199/41dbe56a-a437-4a18-9f88-a2d75a1eaacf">
+
 
 ## 📌 Table of Contents
 - [📖 Project Description](#project-description)
